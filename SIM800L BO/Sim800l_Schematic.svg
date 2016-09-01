@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30mm"
+   height="20mm"
+   viewBox="0 0 106.29921 70.866141"
+   id="svg41630"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Sim800l_Schematic.svg">
+  <defs
+     id="defs41632" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="94.028052"
+     inkscape:cy="7.1869163"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata41635">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-981.49606)">
+    <g
+       id="g42798"
+       transform="translate(-281.07112,597.09658)">
+      <rect
+         id="rect42591"
+         height="52.875"
+         width="61.875"
+         y="395.66946"
+         x="303.28879"
+         class="interior rect"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.125;stroke-linecap:round" />
+      <line
+         id="connector11pin"
+         y2="400.7326"
+         x2="384.04633"
+         y1="400.7326"
+         x1="366.04633"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42594"
+         y="401.60742"
+         x="364.2963"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">RING</text>
+      <rect
+         id="connector11terminal"
+         height="0.87499839"
+         width="0.87499839"
+         y="400.29498"
+         x="384.04633"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector10pin"
+         y2="409.7326"
+         x2="384.04633"
+         y1="409.7326"
+         x1="366.04633"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42598"
+         y="410.60742"
+         x="364.2963"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">DTR</text>
+      <rect
+         id="connector10terminal"
+         height="0.87499839"
+         width="0.87499839"
+         y="409.29498"
+         x="384.04633"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector9pin"
+         y2="418.7326"
+         x2="384.04633"
+         y1="418.7326"
+         x1="366.04633"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42602"
+         y="419.60742"
+         x="364.2963"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">MCP</text>
+      <rect
+         id="connector9terminal"
+         height="0.87499839"
+         width="0.87499839"
+         y="418.29498"
+         x="384.04633"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <text
+         y="417.75293"
+         x="334.78897"
+         font-size="1.49931"
+         id="text42626"
+         class="text"
+         style="font-size:5.31251574px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0">SIM800L</text>
+      <text
+         y="423.4201"
+         x="334.78897"
+         font-size="1.49931"
+         id="text42628"
+         class="text"
+         style="font-size:5.31251574px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0">Breakout</text>
+      <line
+         id="connector11pin-4"
+         y2="425.86871"
+         x2="384.19363"
+         y1="425.86871"
+         x1="366.19363"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42594-4"
+         y="426.74353"
+         x="364.4436"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">MCN</text>
+      <rect
+         id="connector11terminal-1"
+         height="0.87499839"
+         width="0.87499839"
+         y="425.43109"
+         x="384.19363"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector10pin-4"
+         y2="434.86871"
+         x2="384.19363"
+         y1="434.86871"
+         x1="366.19363"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42598-6"
+         y="435.74353"
+         x="364.4436"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">SPKP</text>
+      <rect
+         id="connector10terminal-9"
+         height="0.87499839"
+         width="0.87499839"
+         y="434.43109"
+         x="384.19363"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector9pin-5"
+         y2="443.86871"
+         x2="384.19363"
+         y1="443.86871"
+         x1="366.19363"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42602-3"
+         y="444.74353"
+         x="364.4436"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">SPKN</text>
+      <rect
+         id="connector9terminal-9"
+         height="0.87499839"
+         width="0.87499839"
+         y="443.43109"
+         x="384.19363"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector11pin-47"
+         y2="400.9263"
+         x2="302.04507"
+         y1="400.9263"
+         x1="284.04507"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42594-0"
+         y="402.30621"
+         x="313.35724"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">NET</text>
+      <rect
+         id="connector11terminal-8"
+         height="0.87499839"
+         width="0.87499839"
+         y="400.48868"
+         x="302.04507"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector10pin-2"
+         y2="409.9263"
+         x2="302.04507"
+         y1="409.9263"
+         x1="284.04507"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42598-7"
+         y="411.30621"
+         x="313.35724"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">VCC</text>
+      <rect
+         id="connector10terminal-8"
+         height="0.87499839"
+         width="0.87499839"
+         y="409.48868"
+         x="302.04507"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector9pin-9"
+         y2="418.9263"
+         x2="302.04507"
+         y1="418.9263"
+         x1="284.04507"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42602-2"
+         y="420.30621"
+         x="313.35724"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">RST</text>
+      <rect
+         id="connector9terminal-7"
+         height="0.87499839"
+         width="0.87499839"
+         y="418.48868"
+         x="302.04507"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector11pin-4-9"
+         y2="426.06241"
+         x2="302.19238"
+         y1="426.06241"
+         x1="284.19238"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42594-4-9"
+         y="427.44232"
+         x="313.50455"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">RXD</text>
+      <rect
+         id="connector11terminal-1-5"
+         height="0.87499839"
+         width="0.87499839"
+         y="425.62479"
+         x="302.19238"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector10pin-4-4"
+         y2="435.06241"
+         x2="302.19238"
+         y1="435.06241"
+         x1="284.19238"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42598-6-3"
+         y="436.44232"
+         x="313.50455"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">TXD</text>
+      <rect
+         id="connector10terminal-9-9"
+         height="0.87499839"
+         width="0.87499839"
+         y="434.62479"
+         x="302.19238"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector9pin-5-7"
+         y2="444.06241"
+         x2="302.19238"
+         y1="444.06241"
+         x1="284.19238"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round" />
+      <text
+         id="text42602-3-8"
+         y="445.44232"
+         x="313.50455"
+         font-size="1.23472"
+         class="text"
+         style="font-size:4.37499189px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">GND</text>
+      <rect
+         id="connector9terminal-9-6"
+         height="0.87499839"
+         width="0.87499839"
+         y="443.62479"
+         x="302.19238"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+    </g>
+  </g>
+</svg>
